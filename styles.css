@@ -1371,27 +1371,31 @@ html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .dropdown-menu {
     animation-delay: 0.44s;
   }
 
-  .nav-menu .mobile-contact-link .nav-cta-btn,
-  .nav-menu .nav-cta-mobile-item .nav-cta-btn {
-    display: block;
-    width: 100%;
-    max-width: 360px;
-    margin: 0 auto;
+  .navbar .nav-menu .mobile-contact-link .nav-cta-btn,
+  .navbar .nav-menu .nav-cta-mobile-item .nav-cta-btn,
+  .navbar #navMenu .mobile-contact-link .nav-cta-btn,
+  .navbar #navMenu .nav-cta-mobile-item .nav-cta-btn {
+    display: block !important;
+    width: 100% !important;
+    max-width: 360px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    order: 0 !important;
     padding: 16px 28px;
     border-radius: 999px;
     background: var(--primary, var(--accent, #e85d2a)) !important;
     color: #ffffff !important;
     font-size: 1.1rem;
     font-weight: 700;
-    text-align: center;
+    text-align: center !important;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
     transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
   }
 
-  .nav-menu .mobile-contact-link .nav-cta-btn:hover,
-  .nav-menu .mobile-contact-link .nav-cta-btn:focus-visible,
-  .nav-menu .nav-cta-mobile-item .nav-cta-btn:hover,
-  .nav-menu .nav-cta-mobile-item .nav-cta-btn:focus-visible {
+  .navbar .nav-menu .mobile-contact-link .nav-cta-btn:hover,
+  .navbar .nav-menu .mobile-contact-link .nav-cta-btn:focus-visible,
+  .navbar .nav-menu .nav-cta-mobile-item .nav-cta-btn:hover,
+  .navbar .nav-menu .nav-cta-mobile-item .nav-cta-btn:focus-visible {
     transform: translateY(-1px);
     box-shadow: 0 10px 28px rgba(0, 0, 0, 0.24);
     opacity: 1;
