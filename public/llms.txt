@@ -1,0 +1,69 @@
+# מסע בזמן — Generative Engine Optimization Map
+
+> A time travel program offering participants an immersive journey through time. The concept carries a futuristic yet nostalgic atmosphere, blending science fiction themes with experiential entertainment. The brand likely evokes wonder, adventure, and the thrill of exploring different eras.
+
+---
+
+## Pages
+
+### בית
+https://-eadcb841.zappy5.app
+צללו להרפתקה סוחפת שחוצה תקופות ומעוררת את כל החושים. חוויה עתידנית עם ניחוח נוסטלגי שמשלבת מדע בדיוני ובידור ברמה אחרת. בואו לשנות את העבר, לחוות את העתיד וליצור זיכרונות שיישארו איתכם לנצח. מקומות מוגבלים — הזמינו עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-eadcb841.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-eadcb841.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-eadcb841.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-eadcb841.zappy5.app
+- Endpoint: https://-eadcb841.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מסע בזמן
+A time travel program offering participants an immersive journey through time. The concept carries a futuristic yet nostalgic atmosphere, blending science fiction themes with experiential entertainment. The brand likely evokes wonder, adventure, and the thrill of exploring different eras.
+
+## Services/Products
+- תוכנית מסע בזמן
+
+## Target Audience
+- חובבי היסטוריה
+- מחפשי חוויות סוחפות
+- מתכנני פעילויות משפחתיות
+
+## Industry
+Entertainment / Experience
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-eadcb841.zappy5.app/sitemap.xml
+- Robots: https://-eadcb841.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-eadcb841.zappy5.app/llms-full.txt
